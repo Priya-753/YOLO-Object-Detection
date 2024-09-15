@@ -1,6 +1,8 @@
 # Object Detection Using YOLO
 A Python-based image detection project that processes images to detect objects using the YOLO (You Only Look Once) model. This script leverages OpenCV and the YOLOv3 model for detecting objects in images and saves the results in a specified directory.
 
+![scanned images](https://github.com/Priya-753/YOLO-Object-Detection/blob/master/result.png?raw=true)
+
 ## Features
 - Detects objects in all images from a folder.
 - Utilizes YOLOv3 model for object detection.
